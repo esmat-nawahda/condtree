@@ -21,9 +21,9 @@ npm install condtree
 Here's how you can use condtree to simplify your life:
 
 ```javascript
-const conditionTree = require('condtree');
+import conditionTree from 'condtree';
 
-let x = 15; // A wild variable appears!
+let x: number = 15;
 
 let result = conditionTree({
     condition: () => x > 10,
