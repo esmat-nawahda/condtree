@@ -19,7 +19,7 @@ npm install condtree
 Here's how you can use condtree to simplify your life:
 
 ```javascript
-import conditionTree from 'condtree';
+import { conditionTree } from 'condtree';
 
 let x: number = 15;
 
