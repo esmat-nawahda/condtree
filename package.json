@@ -1,6 +1,7 @@
 {
   "name": "condtree",
   "version": "1.0.0",
+  "description": "A novel approach to manage complex conditional logic in JavaScript using an intuitive tree structure.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "jest": {
@@ -20,7 +21,19 @@
     "build": "tsc",
     "pub": "npm version patch && npm run build && git add . && git commit -m \"auto commit for npm updates\" && git push && npm publish"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esmat-nawahda/condtree.git"
+  },
+  "keywords": [
+    "javascript",
+    "conditional logic",
+    "conditional tree"
+  ],
+  "bugs": {
+    "url": "https://github.com/esmat-nawahda/condtree/issues"
+  },
+  "homepage": "https://github.com/esmat-nawahda/condtree#readme",
   "author": "Esmat Nawahda",
   "license": "ISC",
   "devDependencies": {
@@ -34,6 +47,5 @@
   },
   "directories": {
     "lib": "lib"
-  },
-  "description": ""
+  }
 }
