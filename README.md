@@ -1,7 +1,5 @@
-# condtree
-A novel approach to managing complex conditional logic in JavaScript. This module provides an intuitive and structured way to handle nested conditions, enhancing code readability and maintainability. Ideal for scenarios with multiple intertwined conditionals.
-
 # CondTree 🌳
+A novel approach to managing complex conditional logic in JavaScript. This module provides an intuitive and structured way to handle nested conditions, enhancing code readability and maintainability. Ideal for scenarios with multiple intertwined conditionals.
 
 Tired of feeling like you're traversing a dense forest 🌲🌲🌲 with your complicated, nested conditional statements in JavaScript? Fear no more! `condtree` is here to turn those tricky if-else labyrinths into a walk in the park. 🌞
 
