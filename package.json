@@ -1,6 +1,6 @@
 {
   "name": "condtree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A novel approach to manage complex conditional logic in JavaScript using an intuitive tree structure.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
